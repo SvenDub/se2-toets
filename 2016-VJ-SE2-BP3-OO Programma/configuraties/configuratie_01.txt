@@ -1,0 +1,10 @@
+5114
+10
+4.80
+Monday:06:00;Monday:18:00
+Tuesday:06:00;Tuesday:18:00
+Wednesday:06:00;Wednesday:18:00
+Thursday:06:00;Thursday:18:00
+Friday:06:00;Friday:22:00
+Saturday:06:00;Saturday:22:00
+Sunday:08:00;Sunday:18:00

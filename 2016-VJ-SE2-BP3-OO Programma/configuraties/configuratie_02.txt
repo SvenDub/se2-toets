@@ -1,0 +1,10 @@
+5115
+5
+4.00
+Monday:08:00;Monday:18:00
+Tuesday:08:00;Tuesday:18:00
+Wednesday:08:00;Wednesday:18:00
+Thursday:08:00;Thursday:18:00
+Friday:08:00;Friday:20:00
+Saturday:08:00;Saturday:20:00
+Sunday:00:00;Sunday:00:00
